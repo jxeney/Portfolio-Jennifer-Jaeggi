@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #161616;
+}
+
+h1 { 
+margin-top: 20px;
+text-align: center;
+color: #4e837f;
+	font-family: "eb-garamond";
+}
+
+.pre {
+ color: #161616;
+	font-family: "eb-garamond";
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 30px;
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 1.5;
+	margin-bottom: 130px;
+}
+
+.preview {
+	
+}
+
+.Gal {
+	margin: 120px;
+		margin-left: auto;
+  	margin-right: auto;
+}
+
+.prepic {
+text-align:center;
+ margin: 40px;
+	padding: 20px;
+
+}
+
+.Link-Back {
+	text-decoration: none !important;
+	text-decoration: none !important;
+	text-align: center;
+	padding-bottom: 50px;
+	color: #64a19d;
+	hover{color:#214a47;
+}
